@@ -3,7 +3,6 @@
 ## Introduction
 This is the source code for the Too Much of a Person project website. The site uses jekyll, with CSS/Sass/Scss for styling.
 
-<<<<<<< HEAD
 ## Licence
 Source code is licensed under GPLv4. Website content is licensed under CC BY. All IP remains with Too Much of a Person.
 
