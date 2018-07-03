@@ -1,6 +1,7 @@
-# TOO MUCH OF A PERSON  
+# too-much-of-a-person
 
-Too Much of a Person will be relaunching very soon. Come back to this page in 24 hours.
+## Introduction
+This is the source code for the Too Much of a Person project website. The site uses jekyll, with CSS/Sass/Scss for styling.
 
 ## Licence
 Source code is licensed under GPLv4. Website content is licensed under CC BY. All IP remains with Too Much of a Person.
@@ -50,4 +51,3 @@ baseurl: "/"
 url: "http://localhost:3000/"
 ```
 * I have included `_config.dev.yml` as well as `_config.yml` to cover this
->>>>>>> bd1355e79c3245c064dc2280cf476e5d79a190f0
